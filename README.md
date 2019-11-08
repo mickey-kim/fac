@@ -1,4 +1,4 @@
-# face-recog
+#
 오픈소스 library중 face-recognition, age-gender-estimation, Emotion-recognition 을 함께 사용할수 있도록 개발함.
 
 #face-recognition 부분 참조
